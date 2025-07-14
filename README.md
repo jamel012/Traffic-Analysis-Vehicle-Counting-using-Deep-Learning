@@ -53,9 +53,12 @@ Vehicle counts are logged.
 
 The traffic situation is classified using machine learning models.
 
+https://github.com/user-attachments/assets/5644c49b-da3f-4b61-935b-0d79ac640303
+
+https://github.com/user-attachments/assets/f654308a-3f3e-480c-8651-e898918d7a98
+
 ## 📊 Example CSV Output
-time	date	day_of_week	car_count	motorcycle_count	truck_count	bus_count	total	avg_exit_time_seconds	road_status	traffic_situation
-16:31:00	2025-04-21	Monday	10	1	2	0	13	2.5	m	high
+<img width="1007" height="628" alt="Image" src="https://github.com/user-attachments/assets/d74e59f4-e9fb-488f-950f-3eaf50c5ae1e" />
 
 
 ## 💻 Usage
